@@ -1,0 +1,8 @@
+Ouch! The computer got you that time.
+Better luck next round! That was a tough break.
+Point to the machine! It managed to counter your move.
+Close one! But the computer takes this round.
+Not this time! Shake it off and try again.
+Defeat! The computer had the upper hand on that pick.
+
+
