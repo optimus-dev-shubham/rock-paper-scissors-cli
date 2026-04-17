@@ -41,20 +41,20 @@ interactive and less repetitive.
 
 ## 🛠️ Tech Stack
 
--   Python\
--   File Handling\
--   Random Module\
+-   Python
+-   File Handling
+-   Random Module
 -   Colorama
 
 ------------------------------------------------------------------------
 
 ## 📂 Project Structure
 
-rock-paper-scissors/\
-│── main.py\
-│── win_list_professional.txt\
-│── lose_list_professional.txt\
-│── assets/\
+rock-paper-scissors/
+│── main.py
+│── win_list_professional.txt
+│── lose_list_professional.txt
+│── assets/
 │ └── gameplay.png
 
 ------------------------------------------------------------------------
@@ -62,25 +62,25 @@ rock-paper-scissors/\
 ## ▶️ How to Run
 
 git clone
-https://github.com/optimus-dev-shubham/rock-paper-scissors.git\
-cd rock-paper-scissors\
-pip install colorama\
+https://github.com/optimus-dev-shubham/rock-paper-scissors.git
+cd rock-paper-scissors
+pip install colorama
 python main.py
 
 ------------------------------------------------------------------------
 
 ## 🎮 Controls
 
-r → Rock\
-p → Paper\
-s → Scissors\
+r → Rock
+p → Paper
+s → Scissors
 q → Quit Game
 
 ------------------------------------------------------------------------
 
 ## 👨‍💻 Author
 
-Shubham Yadav\
+Shubham Yadav
 https://github.com/optimus-dev-shubham
 
 ------------------------------------------------------------------------
