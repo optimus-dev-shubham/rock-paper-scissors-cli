@@ -10,13 +10,13 @@ enhanced CLI visuals.
 ## ✨ Highlights
 
 -   🎲 Dynamic Gameplay --- Each round feels fresh with randomized
-    outcomes and responses\
+    outcomes and responses
 -   💬 Personality-Driven Responses --- External files power expressive,
-    non-repetitive reactions\
+    non-repetitive reactions
 -   🎨 Enhanced CLI Experience --- Colored terminal output using
-    Colorama\
--   📊 Live Score Tracking --- Tracks wins, losses, and draws\
--   🔁 Continuous Play Mode --- Play multiple rounds seamlessly\
+    Colorama
+-   📊 Live Score Tracking --- Tracks wins, losses, and draws
+-   🔁 Continuous Play Mode --- Play multiple rounds seamlessly
 -   🧠 Clean Logic Design --- Simple and scalable implementation
 
 ------------------------------------------------------------------------
@@ -24,7 +24,7 @@ enhanced CLI visuals.
 ## 🧠 Concept Behind the Project
 
 This project enhances a basic CLI game by using external text files to
-generate dynamic responses.\
+generate dynamic responses.
 Each outcome triggers a randomized reaction, making gameplay more
 interactive and less repetitive.
 
