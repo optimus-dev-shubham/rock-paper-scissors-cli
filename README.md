@@ -17,7 +17,7 @@ enhanced CLI visuals.
     Colorama
 -   📊 Live Score Tracking --- Tracks wins, losses, and draws
 -   🔁 Continuous Play Mode --- Play multiple rounds seamlessly
--   🧠 Clean Logic Design --- Simple and scalable implementation\
+-   🧠 Clean Logic Design --- Simple and scalable implementation
 
 ------------------------------------------------------------------------
 
